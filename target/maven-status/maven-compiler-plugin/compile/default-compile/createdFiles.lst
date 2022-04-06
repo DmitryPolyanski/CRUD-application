@@ -1,5 +1,0 @@
-by\polyanski\springcrud\models\Person.class
-by\polyanski\springcrud\controllers\PeopleController.class
-by\polyanski\springcrud\config\MySpringMvcDispatcherSerlvetIntitializer.class
-by\polyanski\springcrud\config\SpringConfig.class
-by\polyanski\springcrud\dao\PersonDAO.class
